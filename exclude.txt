@@ -1,9 +1,9 @@
 /lost+found
-/proc/*
-/sys/*
 /dev/*
 /tmp/*
 /run/*
 /mnt/*
 /media/*
 /var/swap
+/var/log/*
+/var/log.hdd/*
